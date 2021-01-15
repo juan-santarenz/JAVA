@@ -1,0 +1,2 @@
+ Se pide el desarrollo de un sistema para la administracion de las cuentas de una entidad financiera. La entidad solicita que clientes tengan datos tales como nombre y apellido, numero de documento, edad y año de nacimiento para ser cliente se debe ser mayor de edad.
+ Existen dos tipos de cuentas standar y con licencia, la cuenta standar tiene un maximo de deposito de $100000 y no puede tener saldo negativo, en la cuenta con licencia se puede depositar lo que el cliente quiera y tiene hasta un saldo negativo de $500.
